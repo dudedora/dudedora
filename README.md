@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @dudedora
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on codes
+- 👋 Hi
+- 👀 I’m interested in coading.
 - 📫 How to reach me debanshudora19@gamil.com
 
 <!---
